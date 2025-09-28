@@ -28,7 +28,7 @@ myFCD1997/
 ├── README.md             # Documentation
 └── datasets/             # Output folder
     ├── 101001.json      # Individual food files (233 total)
-    ├── 101001.json
+    ├── 101002.json
     ├── ...
     └── myfcd97_complete.csv # All data in CSV format
 ```
